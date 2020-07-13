@@ -35,5 +35,11 @@
                 <a class="link" href="{% if https://davidachang.github.io %}{{ site.resume-url }}{% else %}{{ https://davidachang.github.io }}/{{ site.resume-url }}{% endif %}">Résumé</a>
             </li>
         {% endif %}
+
+        {% if site.about == true %}
+            <li class="item">
+                <a class="link" href="https://sidewise.app/" target="_blank">Sidewise</a>
+            </li>
+        {% endif %}
     </ul>
 </nav>

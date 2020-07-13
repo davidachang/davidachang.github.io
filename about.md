@@ -7,7 +7,7 @@ layout: page
 <a class="link" href="{{ site.url }}"> <img class="selfie" alt="Profile Image" src="{{ site.url }}/{{ site.picture }}"> </a>
 
 
-<p>Hello! I'm a Senior at the University of Illinois at Urbana-Champaign studying Finance and minoring in Computer Science. I handle the <a href = "https://www.producthunt.com/posts/sail-habits-with-friends" target = "_blank">business side of things</a>, write about my <a href = "https://medium.com/@bigdchang" target="_blank">experiences as a student</a>, and <a href="https://www.instagram.com/crocconnoisseur/" target="_blank">wear crocs</a>. </p>
+<p>Hello! I'm a Senior at the University of Illinois at Urbana-Champaign studying Finance and minoring in Computer Science. I handle the <a href = "https://www.producthunt.com/posts/sidewise" target = "_blank">business side of things</a>, write about my <a href = "https://medium.com/@bigdchang" target="_blank">experiences as a student</a>, and <a href="https://www.instagram.com/crocconnoisseur/" target="_blank">wear crocs</a>. </p>
 
 
 <!-- <h2>Skills</h2> -->
@@ -27,12 +27,12 @@ layout: page
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
-</ul>
+</ul> -->
 
-<h2>Projects</h2>
+<h2>Blog Posts</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul> -->
+	<li><a href="https://medium.com/@bigdchang/building-sail-year-in-review-cd943653f1cb">Reflections on Building Sail</a></li>
+	<li><a href="https://medium.com/@bigdchang/masterclass-product-analysis-4c32edc200a9">Masterclass Product Analysis</a></li>
+	<li><a href="https://medium.com/@bigdchang/belief-91ddf374c41b">YC Interview Experience</a></li>
+</ul> 
